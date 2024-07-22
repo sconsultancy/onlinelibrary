@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <div className="flex justify-around mt-6">
       <div className=" flex">
-        <img src="/logo.png" alt="" />{" "}
+        <img src="logo.png" alt="" />{" "}
         <h1 className=" logo_text text-[28px] ml-2 text-[#BA131C] ">
           ONLIABRARY
         </h1>
