@@ -14,7 +14,7 @@ function Footer() {
         <a href="/community">Community</a>
         <a href="/company">Company</a>
       </div>
-      <h3>© Photo, Inc. 2019. We love our users!</h3>
+      <h3>© Photo, Inc. 2024. We love our users!</h3>
     </div>
   );
 }
