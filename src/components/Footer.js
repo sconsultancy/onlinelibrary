@@ -5,7 +5,7 @@ function Footer() {
     <div className=" flex my-10 mt-24 justify-around items-center">
       <div className=" flex">
         <img src="logo.png" alt="" />{" "}
-        <h1 className=" logo_text text-[28px] ml-2 text-[#BA131C] ">
+        <h1 className=" logo_text text-[28px] ml-2 text-[#3489cb] ">
           ONLIABRARY
         </h1>
       </div>

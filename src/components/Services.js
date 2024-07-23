@@ -8,7 +8,7 @@ function Services() {
         <h2 className=" my-3 mb-10">
           Get Latest book at cheapest rate there in market
         </h2>
-        <button className=" bg-[#BA131C] py-2 px-6 text-white">
+        <button className=" bg-[#3489cb] py-2 px-6 text-white">
           New Books
         </button>
       </div>
@@ -17,7 +17,7 @@ function Services() {
         <h2 className=" my-3 mb-10">
           Buy and Sell Old books at discount upto 50%
         </h2>
-        <button className=" bg-[#BA131C] py-2 px-6 text-white">
+        <button className=" bg-[#3489cb] py-2 px-6 text-white">
           Old Books
         </button>
       </div>
@@ -26,12 +26,12 @@ function Services() {
         <h2 className=" my-3 mb-10">
           Rent old books and enjoy the reading without storing them
         </h2>
-        <button className=" bg-[#BA131C] py-2 px-6 text-white">Rental</button>
+        <button className=" bg-[#3489cb] py-2 px-6 text-white">Rental</button>
       </div>
       <div className=" w-[250px] border py-10 text-center">
         <h1 className=" my-2">E-Books</h1>{" "}
         <h2 className=" my-3 mb-10">Get into the New World of E-Books</h2>
-        <button className=" bg-[#BA131C] py-2 px-6 text-white">E-Books</button>
+        <button className=" bg-[#3489cb] py-2 px-6 text-white">E-Books</button>
       </div>
     </div>
   );

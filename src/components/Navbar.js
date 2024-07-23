@@ -7,29 +7,29 @@ function Navbar() {
     <div className="flex justify-around mt-6">
       <div className=" flex">
         <img src="logo.png" alt="" />{" "}
-        <h1 className=" logo_text text-[28px] ml-2 text-[#BA131C] ">
+        <h1 className=" logo_text text-[28px] ml-2 text-[#3489cb] ">
           ONLIABRARY
         </h1>
       </div>
       <div className="flex space-x-8">
-        <a className=" text-[15px] text-[#BA131C]" href="/features">
+        <a className=" text-[15px] text-[#3489cb]" href="/features">
           Features
         </a>
-        <a className=" text-[15px] text-[#BA131C]" href="/pricing">
+        <a className=" text-[15px] text-[#3489cb]" href="/pricing">
           Pricing
         </a>
-        <a className=" text-[15px] text-[#BA131C]" href="/books">
+        <a className=" text-[15px] text-[#3489cb]" href="/books">
           Books
         </a>
-        <a className=" text-[15px] text-[#BA131C]" href="/ebooks">
+        <a className=" text-[15px] text-[#3489cb]" href="/ebooks">
           E-Books
         </a>
       </div>
       <div>
-        <button className=" border  py-2 px-8 rounded border-[#BA131C] text-[#BA131C]">
+        <button className=" border  py-2 px-8 rounded border-[#3489cb] text-[#3489cb]">
           Login
         </button>
-        <button className=" bg-[#BA131C] py-2 px-6 text-white">Register</button>
+        <button className=" bg-[#3489cb] py-2 px-6 text-white">Register</button>
       </div>
     </div>
   );

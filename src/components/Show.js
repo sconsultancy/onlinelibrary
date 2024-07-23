@@ -2,7 +2,7 @@ import React from "react";
 
 function Show() {
   return (
-    <div className="bg-[#6F171B] flex overflow-hidden space-y-3 space-x-5 py-4 px-8">
+    <div className="bg-[#113047] flex overflow-hidden space-y-3 space-x-5 py-4 px-8">
       <h1 className=" text-white text-[64px] font-bold w-[295px]">
         Huge Store of New and Old Books
       </h1>
