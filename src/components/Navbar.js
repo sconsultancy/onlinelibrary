@@ -8,7 +8,7 @@ function Navbar() {
       <div className=" flex">
         <img className=" w-8 h-8" src="logo.png" alt="" />{" "}
         <h1 className=" logo_text text-[28px] ml-2 text-[#3489cb] ">
-          ONLIABRARY
+          ONLIBRARY
         </h1>
       </div>
       <div className="flex space-x-8">
